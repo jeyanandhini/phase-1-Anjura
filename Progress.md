@@ -12,4 +12,4 @@ Will stay consistent.
 
 01/08/2021: Watched the movie "The Founder" and documented everything that I learned from it. Had a team-building meet. 
 
-02/08/2021: Started learning C.
+02/08/2021: [LetUsC Chapter 1](https://github.com/cleanhand/phase-1-Anjura/blob/main/LetUsC-Chapter1.md)
