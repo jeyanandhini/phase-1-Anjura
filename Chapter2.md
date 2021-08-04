@@ -1,4 +1,4 @@
-# Decision Control Instruction
+# Decision Control Structure
 
 In order to perform different sets of actions depending on the circumstances, C consists of three major decision making instructions.
 They are:
