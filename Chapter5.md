@@ -23,15 +23,15 @@ iii. Program execution starts from main(), so if a program contains more than on
 
 iv. Number of functions that can be added to a program - no limit.
 
--> A function gets called when the function name is followed by a semicolon.
+✨ A function gets called when the function name is followed by a semicolon.
 
--> A function is defined when the function name is followed by a pair of braces which contain one or more statements.
+✨ A function is defined when the function name is followed by a pair of braces which contain one or more statements.
 
--> A function can be called from any other function, any number of times. Even main() can be called from other functions. Note that a function cannot be defined in another function.
+✨ A function can be called from any other function, any number of times. Even main() can be called from other functions. Note that a function cannot be defined in another function.
 
--> The order in which the functions are called and the order in which they are defined doesn't have to be the same. But, the same order makes the program easier to understand.
+✨ The order in which the functions are called and the order in which they are defined doesn't have to be the same. But, the same order makes the program easier to understand.
 
--> A function can call itself and the process is called *recursion*
+✨ A function can call itself and the process is called *recursion*
 
 # ⭐Why should we use functions?
 
