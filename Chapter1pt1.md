@@ -1,4 +1,4 @@
-# Introduction
+# 🌟Introduction
 
 C was developed in 1972 by Dennis Ritchie at AT & T's Bell Laboratories of USA.
 
@@ -15,7 +15,7 @@ Learning a language is done through a number of steps and in C, the steps are:
     
     Combining a group of instructions to form a program.
     
-# The C Character set
+# ✨The C Character set
 The alphabets, digits and special symbols are the character set.
 
     Aplabets - A,B.....Y,Z
