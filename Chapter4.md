@@ -9,11 +9,11 @@ Syntax:
      switch (choice)
       {
           case constant 1: statement;
-                                        break;
+                             break;
           case constant 2: statement;
-                                        break;
+                             break;
           case constant 3: statement;
-                                        break;
+                             break;
           default: statement;
        }
 
