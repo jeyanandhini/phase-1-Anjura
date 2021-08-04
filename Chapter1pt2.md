@@ -21,6 +21,7 @@ We can initialize while declaring the type of variable.
 The order in which we define the variables is sometimes important.
 
 # ✨Arithematic Instruction
+
 A C arithematic instruction includes a variable name on the left hand side of the = and a combo of constants and variables connected by arithematic operators on the right.
 
 The arithematic operators include +, -, *, /  
