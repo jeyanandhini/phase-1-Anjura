@@ -12,4 +12,5 @@ Will stay consistent.
 
 01/08/2021: Watched the movie "The Founder" and documented everything that I learned from it. Had a team-building meet. 
 
-02/08/2021: [Chapter 1](https://github.com/cleanhand/phase-1-Anjura/blob/main/LetUsC-Chapter1.md) [Chapter2](https://github.com/cleanhand/phase-1-Anjura/blob/main/Chapter2.md)
+02/08/2021: [Chapter 1](https://github.com/cleanhand/phase-1-Anjura/blob/main/LetUsC-Chapter1.md) 
+            [Chapter2](https://github.com/cleanhand/phase-1-Anjura/blob/main/Chapter2.md)
