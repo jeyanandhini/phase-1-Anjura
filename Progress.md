@@ -16,4 +16,4 @@ Will stay consistent.
             
 02/08/2021: [Chapter2](https://github.com/cleanhand/phase-1-Anjura/blob/main/Chapter2.md)
 
-03/082021: [Chapter3]()
+03/082021:  [Chapter3](https://github.com/cleanhand/phase-1-Anjura/blob/main/Chapter3.md)
