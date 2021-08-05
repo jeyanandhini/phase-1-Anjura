@@ -182,9 +182,9 @@ A simple presentation:
 
          location name                 i                  j                  k
       
-         Value at the location         3                65524                 65522 
+         Value at the location         3                65524               65522 
 
-         location number             65524              65522                 65520
+         location number             65524              65522               65520
 
 From the presentation; we can write the output of the program
 
