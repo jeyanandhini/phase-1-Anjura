@@ -89,9 +89,9 @@ The scope of a variable is local to the function in which it is defined.
 
 Any number of return statements can be used in a function and there is no need for the return statement to be present at the end of the called function. It can be used anywhere in the function. 
 
-A function can return only one value at a time.
+👉A function can return only one value at a time.
 
-Even if the value of the formal argument is changed in the called function, it doesn't reflect in the calling function. This means that only a photo copy of the values in actual argument are into formal arguments.
+👉Even if the value of the formal argument is changed in the called function, it doesn't reflect in the calling function. This means that only a photo copy of the values in actual argument are into formal arguments.
 
 # ⭐Calling Convention
 
@@ -105,9 +105,9 @@ Any function in C by default returns an int value. If we want the function to re
 
 For example: float square (float);
 
-This statement means that the function receives a *float* and returns a *float*
+👉This statement means that the function receives a *float* and returns a *float*
 
-This statement is called the *prototype declaration* of the function. We do the prototype declaration in the *main()* because we call it from the *main* function. 
+👉This statement is called the *prototype declaration* of the function. We do the prototype declaration in the *main()* because we call it from the *main* function. 
 Declaring once at the start of the program is enough and the function can be called by functions other than *main* function as well.
 
 If we want the called function return no value, then we can use the keyword *void*.
