@@ -17,3 +17,5 @@ iii. The process is now taken over by the linker which gives a *'.exe'* file and
    The linker links the object files to the library functions thus making a *'exe'* file in an executable format.
    
 iv. The loader will then load the executable file for the execution.
+
+[Source](https://www.geeksforgeeks.org/how-does-a-c-program-executes/)
