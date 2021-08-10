@@ -21,3 +21,15 @@ Will stay consistent.
 03/08/2021: [Chapter4](https://github.com/cleanhand/phase-1-Anjura/blob/main/Chapter4.md)
 
 04/08/2021: [Chapter5](https://github.com/cleanhand/phase-1-Anjura/blob/main/Chapter5.md)
+
+05/08/2021: 
+
+06/08/2021: Learnt about the roles and responsibilties at toastamsters
+
+07/08/2021: Had a demo algomagnet session. Was a great learning experience
+
+08//08/2021: Break
+
+09/08/2021: Recursions
+
+
