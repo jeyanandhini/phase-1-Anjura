@@ -26,10 +26,22 @@ Will stay consistent.
 
 06/08/2021: Learnt about the roles and responsibilties at toastamsters
 
-07/08/2021: Had a demo algomagnet session. Was a great learning experience
+07/08/2021: Had a demo algomagnet communication session. Was a great learning experience
 
 08//08/2021: Break
 
 09/08/2021: Recursions
+
+10/08/202: 
+
+11/08/2021: Pointers (Revision and solved problems)
+
+12/08/2021: Toastmaster meet (Guest Shashi Tharoor)
+
+13//08/2021: Revision of Functions
+
+14/08/2021: Solved problems from the Chapters.
+
+15/08/2021: Second Algo-magnet communication session
 
 
