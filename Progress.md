@@ -36,7 +36,7 @@ Will stay consistent.
 
 11/08/2021: Pointers (Revision and solved problems)
 
-12/08/2021: Toastmaster meet (Guest Shashi Tharoor)
+12/08/2021: Iconic Voices meet (Guest Shashi Tharoor)
 
 13//08/2021: Revision of Functions
 
