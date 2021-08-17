@@ -18,3 +18,5 @@ we need to know the size of memory being pointed to, and that comes from the dat
 ### Why use a generic pointer?
 
 👉 It is useful when we want a pointer to point to data of different types at different times.
+
+[Source](https://www.ritambhara.in/generic-pointers-in-c-language/)
