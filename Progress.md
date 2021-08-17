@@ -36,7 +36,7 @@ Will stay consistent.
 
 11/08/2021: Pointers (Revision and solved problems)
 
-12/08/2021: Iconic Voices meet (Guest Shashi Tharoor)
+12/08/2021: [Iconic Voices meet](https://github.com/cleanhand/phase-1-Anjura/blob/main/Iconic%20voices%20meet.md) (Guest Shashi Tharoor)
 
 13//08/2021: Revision of Functions
 
