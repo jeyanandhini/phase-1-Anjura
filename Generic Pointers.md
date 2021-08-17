@@ -1,8 +1,8 @@
 # Generic Pointers
 
-👉 When a variable is declared as being a pointer to type void, it is known as a generic pointer.
+👉 When a variable is declared as being a pointer to type *void*, it is known as a generic pointer.
 
-👉 All the pointers; irrespective of the type, require same amount of memory because they all store address. So, why do we need different data types?
+👉 All the pointers; irrespective of the type, require *same* amount of memory because they all store address. So, why do we need different data types?
 
 ### why do we need the different data types?
 
