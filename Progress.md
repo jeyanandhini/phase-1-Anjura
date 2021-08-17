@@ -10,7 +10,7 @@ Will stay consistent.
 
 31/07/2021:
 
-01/08/2021: Watched the movie "[The Founder](https://www.youtube.com/watch?v=fZhjv058j6o)" and documented everything that I learned from it. Had a team-building meet. 
+01/08/2021: Watched the movie "[The Founder](https://www.youtube.com/watch?v=7zfRjW06tAA&t=1641s)" and documented everything that I learned from it. Had a team-building meet. 
 
 02/08/2021: [Chapter 1 pt1](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter1pt1.md) 
               [Chapter 1 pt2](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter1pt2.md)   
