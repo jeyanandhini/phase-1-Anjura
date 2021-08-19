@@ -2,51 +2,51 @@
 Updates on my daily learning.
 Will stay consistent.
 
-28/07/2021: [Learning about open sources](https://github.com/Anjura/OpenSources)
+- 28/07/2021: [Learning about open sources](https://github.com/Anjura/OpenSources)
 
-29/07/2021: [Learnt about the major roles at Toastmasters](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities/) and [enrolled at Coursera](https://www.coursera.org/learn/learning-how-to-learn?)
+- 29/07/2021: [Learnt about the major roles at Toastmasters](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities/) and [enrolled at Coursera](https://www.coursera.org/learn/learning-how-to-learn?)
 
-30/07/2021: [Documentation of the Toastamasters meet](https://github.com/Anjura/ToastmastersMeet)
+- 30/07/2021: [Documentation of the Toastamasters meet](https://github.com/Anjura/ToastmastersMeet)
 
-31/07/2021:
+- 31/07/2021:
 
-01/08/2021: Watched the movie "[The Founder](https://www.youtube.com/watch?v=7zfRjW06tAA&t=1641s)" and documented everything that I learned from it. Had a team-building meet. 
+- 01/08/2021: Watched the movie "[The Founder](https://www.youtube.com/watch?v=7zfRjW06tAA&t=1641s)" and documented everything that I learned from it. Had a team-building meet. 
 
-02/08/2021: [Chapter 1 pt1](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter1pt1.md) 
+- 02/08/2021: [Chapter 1 pt1](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter1pt1.md) 
               [Chapter 1 pt2](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter1pt2.md)   
             
-02/08/2021: [Chapter2](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter2.md)
+- 02/08/2021: [Chapter2](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter2.md)
 
-03/082021:  [Chapter3](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter3.md)
+- 03/082021:  [Chapter3](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter3.md)
 
-03/08/2021: [Chapter4](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter4.md)
+- 03/08/2021: [Chapter4](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter4.md)
 
-04/08/2021: [Chapter5](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter5.md)
+- 04/08/2021: [Chapter5](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter5.md)
 
-05/08/2021: 
+- 05/08/2021: 
 
-06/08/2021: Learnt about the roles and responsibilties at toastamsters
+- 06/08/2021: Learnt about the roles and responsibilties at toastamsters
 
-07/08/2021: Had a demo algomagnet communication session. Was a great learning experience
+- 07/08/2021: Had a demo algomagnet communication session. Was a great learning experience
 
-08//08/2021: Break
+- 08//08/2021: Break
 
-09/08/2021: Recursions
+- 09/08/2021: Recursions
 
-10/08/202: 
+- 10/08/202: 
 
-11/08/2021: Pointers (Revision and solved problems)
+- 11/08/2021: Pointers (Revision and solved problems)
 
-12/08/2021: [Iconic Voices meet](https://github.com/cleanhand/phase-1-Anjura/blob/main/Iconic%20voices%20meet.md) (Guest Shashi Tharoor)
+- 12/08/2021: [Iconic Voices meet](https://github.com/cleanhand/phase-1-Anjura/blob/main/Iconic%20voices%20meet.md) (Guest Shashi Tharoor)
 
-13//08/2021: Revision of Functions
+- 13//08/2021: Revision of Functions
 
-14/08/2021: Solved problems from the Chapters.
+- 14/08/2021: Solved problems from the Chapters.
 
-15/08/2021: [Second Algo-magnet communication session](https://github.com/cleanhand/phase-1-Anjura/blob/main/Second%20AlgoMagnet%20Communication%20session.md)
+- 15/08/2021: [Second Algo-magnet communication session](https://github.com/cleanhand/phase-1-Anjura/blob/main/Second%20AlgoMagnet%20Communication%20session.md)
 
-16/08/2021: Learnt about dereferencing of pointers
+- 16/08/2021: Learnt about dereferencing of pointers
 
-17/08/2021: Research about good documentation. [Source](https://www.oreilly.com/content/the-eight-rules-of-good-documentation/)
+- 17/08/2021: Research about good documentation. [Source](https://www.oreilly.com/content/the-eight-rules-of-good-documentation/)
 
-18/08/2021: Started arrays
+- 18/08/2021: Started arrays
