@@ -28,13 +28,13 @@
 
 > **_Links Related_**
 
-[Official website](https://www.mitacs.ca/en)
+* [Official website](https://www.mitacs.ca/en)
 
-[Twitter](https://twitter.com/MitacsCanada)
+* [Twitter](https://twitter.com/MitacsCanada)
 
-[Facebook](https://www.facebook.com/MITACS)
+* [Facebook](https://www.facebook.com/MITACS)
 
-[LinkedIn](https://www.linkedin.com/company/mitacs)
+* [LinkedIn](https://www.linkedin.com/company/mitacs)
 
-[Instagram](https://instagram.com/mitacs)
+* [Instagram](https://instagram.com/mitacs)
 
