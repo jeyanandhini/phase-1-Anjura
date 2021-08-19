@@ -9,7 +9,7 @@
 
 * It provides scholarship offers, international programmes, language courses and many more for students who ate interested to study and research in Germany.
 
-**_Links realted_**
+> **_Links related_**
 
 * [Official Website](https://www.daad.de/en/)
 
