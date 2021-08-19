@@ -47,4 +47,6 @@ Will stay consistent.
 
 16/08/2021: Learnt about dereferencing of pointers
 
+17/08/2021: Research about good documentation. [Source](https://www.oreilly.com/content/the-eight-rules-of-good-documentation/)
 
+18/08/2021: Started arrays
