@@ -50,3 +50,5 @@ Will stay consistent.
 - 17/08/2021: Research about good documentation. [Source](https://www.oreilly.com/content/the-eight-rules-of-good-documentation/)
 
 - 18/08/2021: Started arrays
+
+- 19/08/2021: Concept of memory and continuation of arrays
