@@ -52,3 +52,5 @@ Will stay consistent.
 - 18/08/2021: Started arrays
 
 - 19/08/2021: Concept of memory and continuation of arrays
+
+_ 20/08/2021: Arrays Continued
