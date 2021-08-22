@@ -54,3 +54,7 @@ Will stay consistent.
 - 19/08/2021: Concept of memory and continuation of arrays
 
 - 20/08/2021: Arrays Continued
+
+- 21/08/2021: 
+
+- 22/08/2021: Third AlgoMagnet Communication Session
