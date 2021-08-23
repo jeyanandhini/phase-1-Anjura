@@ -1,4 +1,4 @@
-# Second AlgoMagnet Communication session
+# First AlgoMagnet Communication session
 
 🌟Theme: 75th Independence day.
 
