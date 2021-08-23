@@ -43,7 +43,7 @@ Will stay consistent.
 
 - 14/08/2021: Solved problems from the Chapters.
 
-- 15/08/2021: [Second Algo-magnet communication session](https://github.com/cleanhand/phase-1-Anjura/blob/main/Second%20AlgoMagnet%20Communication%20session.md)
+- 15/08/2021: [Second Algo-magnet communication session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/First%20Session.md)
 
 - 16/08/2021: Learnt about dereferencing of pointers
 
