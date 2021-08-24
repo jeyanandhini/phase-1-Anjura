@@ -43,7 +43,7 @@ Will stay consistent.
 
 - 14/08/2021: Solved problems from the Chapters.
 
-- 15/08/2021: [Second Algo-magnet communication session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/First%20Session.md)
+- 15/08/2021: [First Algo-magnet communication session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/First%20Session.md)
 
 - 16/08/2021: Learnt about dereferencing of pointers
 
@@ -57,4 +57,6 @@ Will stay consistent.
 
 - 21/08/2021: 
 
-- 22/08/2021: Third AlgoMagnet Communication Session
+- 22/08/2021: [Second AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Second%20Session.md)
+
+- 23/08/2021: Searching in Arrays
