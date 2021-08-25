@@ -60,3 +60,5 @@ Will stay consistent.
 - 22/08/2021: [Second AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Second%20Session.md)
 
 - 23/08/2021: Searching in Arrays
+
+ - 24/08/2021: Arrays continued
