@@ -1,70 +1,71 @@
 # Progress
 Updates on my daily learning.
 Will stay consistent.
-
-- 28/07/2021: [Learning about open sources](https://github.com/Anjura/OpenSources)
-
-- 29/07/2021: [Learnt about the major roles at Toastmasters](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities/) and [enrolled at Coursera](https://www.coursera.org/learn/learning-how-to-learn?)
-
-- 30/07/2021: [Documentation of the Toastamasters meet](https://github.com/Anjura/ToastmastersMeet)
-
+---------------------------------------
+ - 28/07/2021: [Learning about open sources](https://github.com/Anjura/OpenSources)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ - 29/07/2021: [Learnt about the major roles at Toastmasters](https://franticallyspeaking.com/toastmasters-executive-committee-roles-and-responsibilities/) and [enrolled at Coursera](https://www.coursera.org/learn/learning-how-to-learn?)
+---------------
+ - 30/07/2021: [Documentation of the Toastamasters meet](https://github.com/Anjura/ToastmastersMeet)
+-------------------
 - 31/07/2021:
-
+---------------
 - 01/08/2021: Watched the movie "[The Founder](https://www.youtube.com/watch?v=7zfRjW06tAA&t=1641s)" and documented everything that I learned from it. Had a team-building meet. 
-
+--------------
 - 02/08/2021: [Chapter 1 pt1](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter1pt1.md) 
               [Chapter 1 pt2](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter1pt2.md)   
-            
+----          
 - 02/08/2021: [Chapter2](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter2.md)
-
+----
 - 03/082021:  [Chapter3](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter3.md)
-
+----
 - 03/08/2021: [Chapter4](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter4.md)
-
+----
 - 04/08/2021: [Chapter5](https://github.com/cleanhand/phase-1-Anjura/blob/main/Let%20Us%20C/Chapter5.md)
-
+-----
 - 05/08/2021: 
-
+----
 - 06/08/2021: Learnt about the roles and responsibilties at toastamsters
-
+-----
 - 07/08/2021: Had a demo algomagnet communication session. Was a great learning experience
-
+-----
 - 08//08/2021: Break
-
+----
 - 09/08/2021: Recursions
-
+----
 - 10/08/202: 
-
+----
 - 11/08/2021: Pointers (Revision and solved problems)
-
+----
 - 12/08/2021: [Iconic Voices meet](https://github.com/cleanhand/phase-1-Anjura/blob/main/Iconic%20voices%20meet.md) (Guest Shashi Tharoor)
-
+----
 - 13//08/2021: Revision of Functions
-
+----
 - 14/08/2021: Solved problems from the Chapters.
-
+----
 - 15/08/2021: [First Algo-magnet communication session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/First%20Session.md)
-
+----
 - 16/08/2021: Learnt about dereferencing of pointers
-
+----
 - 17/08/2021: Research about good documentation. [Source](https://www.oreilly.com/content/the-eight-rules-of-good-documentation/)
-
+----
 - 18/08/2021: Started arrays
-
+----
 - 19/08/2021: Concept of memory and continuation of arrays
-
+----
 - 20/08/2021: Arrays Continued
-
+----
 - 21/08/2021: 
-
+----
 - 22/08/2021: [Second AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Second%20Session.md)
-
+----
 - 23/08/2021: Searching in Arrays
-
+----
  - 24/08/2021: Arrays continued
-
+----
  - 25/08/2021: [Documentation of Toastmasters(Edinburgh, Scotland)](https://github.com/cleanhand/phase-1-Anjura/blob/main/Toastmasters%20(Edinburgh%2C%20Scotland).md)
-
+----
  - 26/08/2021: Subarrays 
-
+----
  - 27/08/2021: 
+----
