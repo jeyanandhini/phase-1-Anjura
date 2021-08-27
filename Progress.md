@@ -64,3 +64,7 @@ Will stay consistent.
  - 24/08/2021: Arrays continued
 
  - 25/08/2021: [Documentation of Toastmasters(Edinburgh, Scotland)](https://github.com/cleanhand/phase-1-Anjura/blob/main/Toastmasters%20(Edinburgh%2C%20Scotland).md)
+
+ - 26/08/2021: Subarrays 
+
+ - 27/08/2021: 
