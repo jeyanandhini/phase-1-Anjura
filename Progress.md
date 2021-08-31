@@ -105,4 +105,10 @@
  - [x] **Day-33**: Break 
  
  ----
- - [x] **Day-34**: Fourth AlgoMagnet Communciation session. 
+ - [x] **Day-34**: Fourth AlgoMagnet Communciation session.  
+ 
+ ----
+  - [x] **Day-35**: Learnt about Sliding window method.
+
+----
+- [ ] **Day-36**: 
