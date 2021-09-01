@@ -108,7 +108,7 @@
  - [x] **Day-34**: Fourth AlgoMagnet Communciation session.  
  
  ----
-  - [x] **Day-35**: Learnt about Sliding window method.
+  - [x] **Day-35**: [Read](https://www.geeksforgeeks.org/window-sliding-technique/) and learnt about Sliding window method
 
 ----
-- [ ] **Day-36**: 
+- [x] **Day-36**: Read about [MEXT Scholarships](https://www.in.emb-japan.go.jp/Education/japanese_government_scholarships.html)
