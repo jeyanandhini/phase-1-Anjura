@@ -1,5 +1,5 @@
 # **_Toastmasters_**
-> Jakarta Club 🇮🇩
+> Jakarta Club
 
 ### Theme: *Self-Mastery*
 
