@@ -115,3 +115,7 @@
 
 ----
  -  [x] **Day-37**: [Toastmasters at Jakarta Club](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Toastmasters(Jakarta%20Club).md) 
+
+----
+
+ - [x] **Day-38**: Started with heaps.
