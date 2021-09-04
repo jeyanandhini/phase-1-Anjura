@@ -118,4 +118,7 @@
 
 ----
 
- - [x] **Day-38**: Started with heaps.
+ - [x] **Day-38**: Started with heaps and a brief introduction on trees.
+
+----
+ - [x] **Day-39**: Started with 2-D Arrays and [solved a question](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/2DArray.md) on it.  
