@@ -122,3 +122,9 @@
 
 ----
  - [x] **Day-39**: Started with 2-D Arrays and [solved a question](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/2DArray.md) on it.  
+
+----
+ - [x] **Day-40**: Weekend Break
+
+----
+ - [x] **Day-41**: Fifth AlgoMagnet Communciation session(Teacher's day special)
