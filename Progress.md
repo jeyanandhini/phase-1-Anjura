@@ -128,3 +128,8 @@
 
 ----
  - [x] **Day-41**: Fifth AlgoMagnet Communciation session(Teacher's day special)
+
+----
+ - [x] **Day-42**: Dissecting 2-D arrays
+
+
