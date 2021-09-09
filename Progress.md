@@ -132,4 +132,12 @@
 ----
  - [x] **Day-42**: Dissecting 2-D arrays
 
+----
+ - [x] **Day-43**: 3-D arrays
+
+----
+ - [x] **Day-44**: Character array and strings.
+
+
+
 
