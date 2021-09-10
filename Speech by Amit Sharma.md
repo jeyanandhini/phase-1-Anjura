@@ -1,4 +1,4 @@
- ## **_Speech by Mr. Amit Sharma_**
+ # **_Speech by Mr. Amit Sharma_**
  > Global COO, IBM GBS, and an IIMB alumnus of the 1992-94 batch
  
  ----
