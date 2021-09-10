@@ -45,3 +45,8 @@
 
 🍂  At this time, dynamic memory allocation comes into picture as it allocates the memory during the run time which enables us to use as much storage as we want, without worrying about any wastage.
  
+🔖  [Source 1](https://www.geeksforgeeks.org/what-is-dynamic-memory-allocation/)
+
+🔖  [Source 2](https://www.geeksforgeeks.org/difference-between-static-and-dynamic-memory-allocation-in-c/)
+
+🔖  [Source 3](https://en.wikipedia.org/wiki/Static_variable#:~:text=In%20general%2C%20static%20memory%20allocation,as%20required%20at%20run%20time.)
