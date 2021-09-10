@@ -64,4 +64,6 @@
   💜  The trick is that you engage in some exercise or yoga or some sport, extra-curricular activities for they will become your anchor⚓
 	
  ### **_BUCLKE UP YOUR SEATBELTS AND ENJOY EVERY SINGLE MOMENT OF IT😃!_**
+ 
+ The video --> [source](https://www.youtube.com/watch?v=Rs7MarDeLmU&t=20s)
 	
