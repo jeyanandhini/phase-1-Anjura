@@ -105,7 +105,7 @@
  - [x] **Day-33**: Break 
  
  ----
- - [x] **Day-34**: Fourth AlgoMagnet Communciation session.  
+ - [x] **Day-34**: Third AlgoMagnet Communciation session.  
  
  ----
   - [x] **Day-35**: [Read](https://www.geeksforgeeks.org/window-sliding-technique/) and learnt about Sliding window method
@@ -127,7 +127,7 @@
  - [x] **Day-40**: Weekend Break
 
 ----
- - [x] **Day-41**: Fifth AlgoMagnet Communciation session(Teacher's day special)
+ - [x] **Day-41**: Fourth AlgoMagnet Communciation session(Teacher's day special)
 
 ----
  - [x] **Day-42**: Dissecting 2-D arrays
@@ -137,6 +137,12 @@
 
 ----
  - [x] **Day-44**: Character array and strings.
+
+----
+ - [x] **Day-45**: Structures.
+
+----
+ - [ ] **Day-46**: 
 
 
 
