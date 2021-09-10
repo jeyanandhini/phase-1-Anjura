@@ -9,7 +9,7 @@
 
 ----
 
-Lessons he learnt during his journey 📔
+## _Lessons he learnt during his journey 📔_
 
   💠  Attitude makes all the difference. No matter how much knowledge we possess or the degrees we bag, attitude always triumphs all of it. Don’t lose the right attitude.
   
@@ -25,7 +25,7 @@ Lessons he learnt during his journey 📔
 
 ----
 
-Traits he summarized that tomorrow's leaders need to inculcate:
+## _Traits he summarized that tomorrow's leaders need to inculcate:_
 
   ☘️  Successful leaders invest for the long time.
 	
