@@ -142,7 +142,7 @@
  - [x] **Day-45**: Structures.
 
 ----
- - [ ] **Day-46**: 
+ - [x] **Day-46**: Documentation of the [speech by Mr. Amit Sharma](https://github.com/cleanhand/phase-1-Anjura/blob/main/Speech%20by%20Amit%20Sharma.md)
 
 
 
