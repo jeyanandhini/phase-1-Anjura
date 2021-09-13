@@ -144,6 +144,10 @@
 ----
  - [x] **Day-46**: Documentation of the [speech by Mr. Amit Sharma](https://github.com/cleanhand/phase-1-Anjura/blob/main/Speech%20by%20Amit%20Sharma.md) and learnt about [Static and Dynamic memory allocation](https://github.com/cleanhand/phase-1-Anjura/blob/main/Static%20and%20dynamic%20memory%20allocation.md)
 
+-----
+ - [x] **Day-47**: Break
 
+----
+ - [x] **Day-48**: Fifth Algomagnet Communication session
 
 
