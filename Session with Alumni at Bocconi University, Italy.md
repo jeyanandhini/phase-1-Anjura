@@ -1,4 +1,4 @@
-# Session with Alumni at Bocconi University, Italy
+<h1 align="center">Session with Alumni at Bocconi University, Italy</h1>
 
 ![WhatsApp Image 2021-09-14 at 6 53 25 PM](https://user-images.githubusercontent.com/85027663/133385468-2827c530-324d-410a-a947-62fadfa2aa86.jpeg)
 
