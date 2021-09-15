@@ -154,6 +154,6 @@
  - [x] **Day-49**: Learnt about Agile methodology and Issues in Github.
 
 ----
- - [x] **Day-50**: Session with Alumni at Bocconi University, Italy.
+ - [x] **Day-50**: [Session with Alumni at Bocconi University, Italy](https://github.com/cleanhand/phase-1-Anjura/blob/main/Session%20with%20Alumni%20at%20Bocconi%20University%2C%20Italy.md)
 
 
