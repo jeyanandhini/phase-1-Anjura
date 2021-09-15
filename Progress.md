@@ -151,5 +151,9 @@
  - [x] **Day-48**: [Fifth Algomagnet Communication session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Fifth%20Session%20with%20Mr.Arijit%20(Director%20of%20VIS%20Global).md)
 
 ----
- - [ ] **Day-49**: 
+ - [x] **Day-49**: Learnt about Agile methodology and Issues in Github.
+
+----
+ - [x] **Day-50**: Session with Alumni at Bocconi University, Italy.
+
 
