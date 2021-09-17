@@ -160,7 +160,7 @@
 - [x] **Day-51**: Went through the [Quickstart Github doc](https://docs.github.com/en/get-started/quickstart) and experimented with issues.
 
 ----
-- [x] **Day-51**: Started with linked lists and made my first linked list.
+- [x] **Day-51**: Started with linked lists and made [my first linked list](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Linkedlist1.c).
 
 ----
 - [ ] **Day-52**: 
