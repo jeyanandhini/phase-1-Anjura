@@ -2,10 +2,10 @@
 
 #include<stdio.h>
 
-struct node 
+ struct node 
 {
-	int data;
-	struct node* next;
+   int data;
+   struct node* next;
 };
 
 void main()
@@ -36,3 +36,10 @@ void main()
     printf("\ndata2 : %d address : %d", temp1->next->data, temp1->next);
     printf("\ndata2 : %d address : %d", temp->next->next->data, temp->next->next);
 }
+
+
+Output: Data : 30 Address : 7934992
+        data1 : 70 address : 7935024
+        data1 : 70 address : 7935024
+        data2 : 110 address : 7935056
+        data2 : 110 address : 7935056
