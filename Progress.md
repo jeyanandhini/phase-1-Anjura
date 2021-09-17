@@ -163,5 +163,5 @@
 - [x] **Day-51**: Started with linked lists and made my first linked list.
 
 ----
-- [] **Day-52**: 
+- [ ] **Day-52**: 
 
