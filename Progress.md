@@ -156,4 +156,12 @@
 ----
  - [x] **Day-50**: [Session with Alumni at Bocconi University, Italy](https://github.com/cleanhand/phase-1-Anjura/blob/main/Session%20with%20Alumni%20at%20Bocconi%20University%2C%20Italy.md)
 
+----
+- [x] **Day-51**: Went through the [Quickstart Github doc](https://docs.github.com/en/get-started/quickstart) and experimented with issues.
+
+----
+- [x] **Day-51**: Started with linked lists and made my first linked list.
+
+----
+- [] **Day-52**: 
 
