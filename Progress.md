@@ -163,5 +163,11 @@
 - [x] **Day-51**: Started with linked lists and made [my first linked list](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Linkedlist1.c).
 
 ----
-- [ ] **Day-52**: 
+- [ ] **Day-52**: Insertion of nodes
+
+----
+- [ ] **Day-53**: Break
+
+----
+- [ ] **Day-54**: Sixth Algo-magnet Communication Session.
 
