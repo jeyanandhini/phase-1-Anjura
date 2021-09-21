@@ -163,7 +163,7 @@
 - [x] **Day-51**: Started with linked lists and made [my first linked list](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Linkedlist1.c).
 
 ----
-- [x] **Day-52**: Tried insertion of nodes. 
+- [x] **Day-52**: Tried insertion of node at the start but did it in a [long and basic approach](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Insertion%20at%20the%20start%20of%20linked%20list%20in%20a%20long%20and%20basic%20approach.c)
 
 ----
 - [x] **Day-53**: Break
@@ -172,7 +172,7 @@
 - [x] **Day-54**: [Sixth Algo-magnet Communication Session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Sixth%20Session%20with%20Rajat%20sir.md)
 
 ----
-- [x] **Day-55**: Insertion of nodes through functions. Attended a session conducted by E-cell NITA with alumni Sumit Kumar Sharma sir.
+- [x] **Day-55**: Insertion of nodes through functions.[Tried an insertion program](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Insertion%20in%20Linked%20List.c). Attended a session conducted by E-cell NITA with alumni Sumit Kumar Sharma sir.
 
 ----
 - [x] **Day-56**: 
