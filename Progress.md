@@ -1,7 +1,8 @@
-# **_Progress_** 
-> Updates on my daily learning.
+ <h1 align="center"> Progress 🚧 </h1> 
 
- 
+> Updates on my daily learning. 🚶‍♀️
+
+
  - [x] **Day-1**: [Learning about open sources](https://github.com/Anjura/OpenSources)
 
 -----
