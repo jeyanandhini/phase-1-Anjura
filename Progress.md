@@ -179,7 +179,7 @@
 - [x] **Day-56**: Tried to do insertion at the front, at the end and at any position in the linked lists and tried to write a [code for insertion in Linked lists](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Insertion%20in%20Linked%20Lists.c)
 
 ----
-- [x] **Day-57**: Learnt about reversal and roataion in an array. Tried to write a [code for reversal of an array using functions](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Reversal%20of%20an%20array%20using%20functions.c) and tried to write a [code for rotation of an array using functions](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Rotation%20of%20an%20array%20using%20functions.c) and spent time thinking about how to reverse a linked list.
+- [x] [**Day-57**](https://github.com/Anjura/Days/blob/main/Day-57.md): Learnt about reversal and roataion in an array. 
 
 ----
 - [ ] **Day-58**: Spent some more time on how to reverse a linked list.
