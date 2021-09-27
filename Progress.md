@@ -182,4 +182,13 @@
 - [x] [**Day-57**](https://github.com/Anjura/Days/blob/main/Day-57.md): Learnt about reversal and rotation in an array. 
 
 ----
-- [ ] **Day-58**: Spent some more time on how to reverse a linked list.
+- [x] **Day-58**: Spent some more time on how to reverse a linked list.
+
+----
+- [x] **Day-59**: Learnt about loop in a linked list.
+
+----
+- [x] **Day-60**: Break
+
+----
+- [x] **Day-61**: Seventh Algo-magnet communication session.
