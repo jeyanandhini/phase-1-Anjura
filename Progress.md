@@ -192,3 +192,9 @@
 
 ----
 - [x] **Day-61**: Seventh Algo-magnet communication session.
+
+----
+- [x] **Day-62**: Exam prep
+
+----
+- [x] **Day-63**: Day of exam. Tried to implement doubly linked list.
