@@ -197,4 +197,11 @@
 - [x] **Day-62**: Exam prep
 
 ----
-- [x] **Day-63**: Day of exam. Tried to implement doubly linked list.
+- [x] **Day-63**: Day of exam. Tried to implement doubly linked list. [My basic code](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Doubly%20linked%20list%20basic%20approach.c)
+
+----
+- [x] **Day-64**: Learnt about insertion in a Linked list; the happening behind the insertion.
+
+----
+- [x] **Day-65**: Got to know about [Hactoberfest](https://hacktoberfest.digitalocean.com/). Need to research about it and apply accordingly.
+
