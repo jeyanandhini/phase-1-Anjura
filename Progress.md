@@ -205,3 +205,8 @@
 ----
 - [x] **Day-65**: Got to know about [Hactoberfest](https://hacktoberfest.digitalocean.com/). Need to research about it and apply accordingly.
 
+----
+- [x] **Day-66**:
+
+----
+- [x] **Day-67**: Break
