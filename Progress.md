@@ -210,3 +210,6 @@
 
 ----
 - [x] **Day-67**: Break
+
+----
+- [x] **Day-68**: Eighth AlgoMagnet Communication Session
