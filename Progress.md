@@ -2,6 +2,7 @@
 
 > Updates on my daily learning. 🚶‍♀️
 
+**_JULY_** 📑
 
  - [x] **Day-1**: [Learning about open sources](https://github.com/Anjura/OpenSources)
 
@@ -15,6 +16,8 @@
  - [x] **Day-4**: Break
 
 ---------------
+**_AUGUST 📑_**
+
  - [x] **Day-5**: Watched the movie "[The Founder](https://www.youtube.com/watch?v=7zfRjW06tAA&t=1641s)" and documented everything that I learned from it. Had a team-building meet. 
 
 --------------
@@ -115,6 +118,8 @@
 - [x] **Day-36**: Read about [MEXT Scholarships](https://www.in.emb-japan.go.jp/Education/japanese_government_scholarships.html)
 
 ----
+**_SEPTEMBER 📑_**
+
  -  [x] **Day-37**: [Toastmasters at Jakarta Club](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Toastmasters(Jakarta%20Club).md) 
 
 ----
@@ -206,6 +211,7 @@
 - [x] **Day-65**: Got to know about [Hactoberfest](https://hacktoberfest.digitalocean.com/). Need to research about it and apply accordingly.
 
 ----
+**_OCTOBER 📑_**
 - [x] **Day-66**:
 
 ----
@@ -213,3 +219,6 @@
 
 ----
 - [x] **Day-68**: Eighth AlgoMagnet Communication Session
+
+----
+- [x] **Day-69**: Reversing a character array. Got to know about [github.dev](https://github.dev/github/dev)
