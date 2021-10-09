@@ -222,3 +222,21 @@
 
 ----
 - [x] **Day-69**: Reversing a character array. Got to know about [github.dev](https://github.dev/github/dev)
+
+----
+- [x] **Day-70**: Prepared for graph theory exam. 
+
+----
+- [x] **Day-71**: Revised 2D arrays.
+
+----
+- [x] **Day-72**: Tried to write the code for spiral transversal.
+
+----
+- [x] **Day-73**: 
+
+----
+- [x] **Day-74**: Weekend Break
+
+----
+
