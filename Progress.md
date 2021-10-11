@@ -196,7 +196,7 @@
 - [x] **Day-60**: Break
 
 ----
-- [x] **Day-61**: Seventh Algo-magnet communication session.
+- [x] **Day-61**: [Seventh Algo-magnet communication session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Seventh%20Session.md)
 
 ----
 - [x] **Day-62**: Exam prep
@@ -230,13 +230,16 @@
 - [x] **Day-71**: Revised 2D arrays.
 
 ----
-- [x] **Day-72**: Tried to write the code for spiral transversal.
+- [x] **Day-72**: Was not able to attend the class. Spiral transversal in an array matrix was taught. Need to try writing the code for it after learning about it.
 
 ----
-- [x] **Day-73**: 
+- [x] **Day-73**: Was not able to attend the class again. Wave and diagonal transversal in an array matrix was taught in class. Need to understand the concept and try writing the code.
 
 ----
 - [x] **Day-74**: Weekend Break
 
 ----
+- [x] **Day-75**: [Ninth AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Ninth%20Session(Table-topic%20contest%201).md). Our first table-topic contest.
 
+----
+- [ ] **Day-76**: 
