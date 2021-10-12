@@ -242,4 +242,11 @@
 - [x] **Day-75**: [Ninth AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-Anjura/blob/main/AlgoMagnet%20Communication%20sessions/Ninth%20Session(Table-topic%20contest%201).md). Our first table-topic contest.
 
 ----
-- [ ] **Day-76**: 
+- [x] **Day-76**: Went through the minesweeper blog.
+
+----
+- [x] **Day-77**: 
+
+----
+- [ ] **Day-78**: 
+
