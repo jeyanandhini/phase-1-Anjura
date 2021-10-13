@@ -245,8 +245,8 @@
 - [x] **Day-76**: Went through the minesweeper blog.
 
 ----
-- [x] **Day-77**: 
+- [x] **Day-77**: Completed the short answer questions from Algomagnet test.
 
 ----
-- [ ] **Day-78**: 
+- [x] **Day-78**: Tired to write the code for selectionsort along with sir. Need to practice it and try doing bubble, selection, insertion sort in linked lists.
 
