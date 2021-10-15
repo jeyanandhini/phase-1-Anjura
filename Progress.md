@@ -250,3 +250,8 @@
 ----
 - [x] **Day-78**: Tired to write the code for selectionsort along with sir. Need to practice it and try doing bubble, selection, insertion sort in linked lists.
 
+----
+- [x] **Day-79**: Did insertion sort in arrays and linked lists.
+
+----
+- [ ] **Day-80**:
