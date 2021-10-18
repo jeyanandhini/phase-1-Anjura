@@ -260,4 +260,7 @@
 - [x] **Day-81**: Break
 
 ----
-- [ ] **Day-82**:
+- [ ] **Day-82**: 
+
+----
+- [x] **Day-83**: Matrix multiplication and applications of it. Should revise all the topics that were covered till now.
