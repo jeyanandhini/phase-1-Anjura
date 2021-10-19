@@ -263,4 +263,8 @@
 - [ ] **Day-82**: 
 
 ----
-- [x] **Day-83**: Matrix multiplication and applications of it. Should revise all the topics that were covered till now.
+- [x] **Day-83**: Discussed about matrix multiplication. Got to know about [APIs](https://www.mulesoft.com/resources/api/what-is-an-api#:~:text=API%20is%20the%20acronym%20for,you're%20using%20an%20API.) and about [Postman](https://www.postman.com/)
+
+----
+- [x] **Day-84**: Discussion on finding a 2D array in a larger 2D array and the scope of it being the base of a project. 
+
