@@ -1,5 +1,7 @@
  <h1 align="center"> Typind speed progress 👩‍💻 </h1>
  
+ > Platform - The typing cat 
+ 
  <h1 align="center"> October 📆 </h1>
  
   - [x] Day 1:
@@ -37,3 +39,9 @@
  - [x] Day 9: 
 
 ![19th october 2021](https://user-images.githubusercontent.com/85027663/137941119-351905a2-d250-4f5d-a42a-95c2b7a3bb0b.png)
+
+----
+ - [x] Day 10:
+
+
+![typingtest 20th august](https://user-images.githubusercontent.com/85027663/138105313-823a20f0-c179-43c1-aef4-cba5ddd81b92.png)
