@@ -285,5 +285,10 @@
 
 ----
 - [x] **Day-85**: Special session on how to organize notes. Need to improve my documentation.
+ 
+ ----
+ 
+- [x] **Day-86**: Discussion on how to apply for research internships and deciding on our domain of interest.
+ 
 
  </details>
