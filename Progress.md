@@ -268,3 +268,6 @@
 ----
 - [x] **Day-84**: Discussion on finding a 2D array in a larger 2D array and the scope of it being the base of a project. 
 
+----
+- [x] **Day-85**: Special session on how to organize notes. Need to improve my documentation.
+
