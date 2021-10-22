@@ -290,5 +290,7 @@
  
 - [x] **Day-86**: Discussion on how to apply for research internships and deciding on our domain of interest.
  
+ ----
+ - [x] **Day-87**: Revised topics that were discussed earlier.
 
  </details>
