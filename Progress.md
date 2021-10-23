@@ -294,6 +294,6 @@
  - [x] **Day-87**: Revised topics that were discussed earlier.
  
  ----
- - [x] **Day-88**: Break
+ - [x] **Day-88**: Break. Had a short discussion on the book club and the camel groups + the meeting tomorrow.
 
  </details>
