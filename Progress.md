@@ -295,5 +295,8 @@
  
  ----
  - [x] **Day-88**: Break. Had a short discussion on the book club and the camel groups + the meeting tomorrow.
+ 
+ ----
+ - [x] **Day-89**: Had a session on internships with benefit to women in tech & on how we can proceed with making videos.
 
  </details>
