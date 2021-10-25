@@ -299,4 +299,6 @@
  ----
  - [x] **Day-89**: Had a session on internships with benefit to women in tech & on how we can proceed with making videos.
 
+ ----
+ - [x] **Day-90**: Learnt about heap sort and discussed about the goal we all have and the priorities we need to have.
  </details>
