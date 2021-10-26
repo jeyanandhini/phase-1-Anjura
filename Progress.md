@@ -301,4 +301,7 @@
 
  ----
  - [x] **Day-90**: Learnt about heap sort and discussed about the goal we all have and the priorities we need to have.
+ 
+ ----
+ - [x] **[Day-91](https://github.com/Anjura/Days/blob/main/Day-91.md)**: Discussion on resume building and implementation of heaps using arrays.
  </details>
