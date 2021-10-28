@@ -304,12 +304,12 @@
  
  ----
  - [x] **[Day-91](https://github.com/Anjura/Days/blob/main/Day-91.md)**: Discussion on resume building and implementation of heaps using arrays.
- </details>
  
  ----
  
  - [x] **[Day-92](https://github.com/Anjura/Days/blob/main/Day-92.md)**: Basics of recursions.
 
 ----
- - [x] **Day-93**:
+ - [ ] **Day-93**:
  
+ </details>
