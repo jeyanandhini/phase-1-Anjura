@@ -4,7 +4,7 @@
  > Format: Tool/Resource | Use
             
 -  [Open source guide](https://opensource.guide/) | Learning about open source📔
-    ---- | ----
+    :----: | ----
  
 - [OBS Studio](https://obsproject.com/) | Video recording🎞️
     ---- | ----
