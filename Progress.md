@@ -316,5 +316,8 @@
  - [x] **[Day-94](https://github.com/Anjura/Days/blob/main/Day-94.md)**: Discussion on recursion.
  
  ----
-  - [ ] **Day-95**: Break
+  - [x] **Day-95**: Break
+ 
+ ----
+  - [x] **[Day-96](https://github.com/Anjura/Days/blob/main/Day-96.md)**: Did assignments the whole day. Need to revise recursions for the next class.
  </details>
