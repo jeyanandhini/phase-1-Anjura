@@ -222,7 +222,7 @@
 - [x] **Day-65**: Got to know about [Hactoberfest](https://hacktoberfest.digitalocean.com/). Need to research about it and apply accordingly.
 
 ----
-  </details>
+ | </details>
   <details>
 <summary> OCTOBER 📑 </summary>
 <br>
@@ -319,5 +319,12 @@
   - [x] **Day-95**: Break
  
  ----
-  - [x] **[Day-96](https://github.com/Anjura/Days/blob/main/Day-96.md)**: Did assignments the whole day. Need to revise recursions for the next class.
+  - [x] **[Day-96](https://github.com/Anjura/Days/blob/main/Day-96.md)**: Did assignments the whole day. Need to revise recursions for the next class. 
+ </details>
+ 
+   <details>
+<summary> NOVEMBER 📑 </summary>
+<br>
+
+ - [x] **[Day-97](https://github.com/Anjura/Days/blob/main/Day-97.md)**: Discussion on resume building, problems and concepts related to recursions.
  </details>
