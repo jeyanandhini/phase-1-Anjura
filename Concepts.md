@@ -1,77 +1,93 @@
  <h1 align="center"> Concepts🗂️ </h1>  
  
- Bitwise operators
- |----|
+  - [x] Bitwise operators
+ ----
  
- Pointers and memory structure for C
- |----|
+  - [x] Pointers and memory structure for C
+ ----
  
- Function Calls
- |----|
+  - [x] Function Calls
+ ----
  
- Arrays
- |----|
+  - [x] Arrays
+ ----
  
- Pointer Arithmetic
- |----|
+ - [x] Pointer Arithmetic
+ ----
  
- Linear Search
- |----|
- 
- Binary Search
- |----|
- 
- Sub-arrays
- |----|
- 
- Sortings
- |----|
- 
- Sliding Window method
- |----|
- 
- Two-pointer method
- |----|
- 
- Partition method/concept
- |----|
- 
- Merge sorting concept
- |----|
- 
- Heap sort concept
- |----|
- 
- 2-D arrays
- |----|
- 
- Pointers in 2-D arrays
- |----|
- 
- 3-D array
- |----|
- 
- Character array and strings
- |----|
- 
- Structures
- |----|
- 
- Dynamic memory allocation
- |----|
- 
- Linked lists
- |----|
- 
- Loop in a linked list
- |----|
- 
- Doubly linked list
- |----|
- 
- Traversal in an array matrix
- |----|
- 
- Sorting in linked list
- |----|
+ - [x] Searching
 
+
+ |Linear|Binary|
+|----|---|
+
+ ----
+ 
+- [x] Sub-arrays
+ ----
+ 
+- [x] Sortings
+
+Bubble|Selection|
+|----|---|
+
+ ----
+ 
+ - [x] Sliding Window method
+ ----
+ 
+ - [x] Two-pointer method
+ ----
+ 
+ - [x] Partition method/concept
+ ----
+ 
+ - [x] Merge sorting concept
+ ----
+ 
+ - [x] Heap sort concept
+ ----
+ 
+ - [x] 2-D arrays
+ ----
+ 
+ - [x] Pointers in 2-D arrays
+ ----
+ 
+ - [x] 3-D array
+ ----
+ 
+ - [x] Character array and strings
+ ----
+ 
+ - [x] Structures
+ ----
+ 
+ - [x] Dynamic memory allocation
+ ----
+ 
+ - [x] Linked lists
+ ----
+ 
+ - [x] Loop in a linked list
+ ----
+ 
+ - [x] Doubly linked list
+ ----
+ 
+ - [x] Traversal in an array matrix
+
+|Spiral|Wave|Diagonal
+ |----|----|----|
+ 
+ ----
+ 
+ - [x] Sorting in linked list
+ 
+ | Bubble sort| Selection Sort| Insertion sort
+ |----|----|----|
+ 
+ ----
+ 
+  - [x] Recursions
+----
