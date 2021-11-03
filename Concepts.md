@@ -7,6 +7,10 @@
  ----
  
   - [x] Function Calls
+
+Call by value|Call by reference
+|----|----|
+
  ----
  
   - [x] Arrays
