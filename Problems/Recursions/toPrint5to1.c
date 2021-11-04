@@ -9,8 +9,13 @@ int func(int n)
 }
 
 void main()
-{
-	func(5);
+{	
+	int n;
+	printf("Enter n");
+	scanf("%d", &n);
+	func(n);
 }
 
-Output: 5 4 3 2 1
+Output:Enter n
+       5
+       5 4 3 2 1
