@@ -15,6 +15,9 @@ int factorial(int n)
 void main()
 {
 	int fact;
+	int n;
+	printf("Enter n");
+	scanf("%d", &n);
 	fact = factorial(5);
 	printf("%d", fact);
 }
