@@ -11,7 +11,12 @@ int func(int n)
 
 void main()
 {
-	func(6);
+	int n;
+	printf("Enter n");
+	scanf("%d", &n);
+	func(n);
 }
 
-Output: 1 2 3 4 5 6
+Output: Enter n
+        5
+	1 2 3 4 5 
