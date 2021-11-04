@@ -1,4 +1,4 @@
- <h1 align="center"> Concepts🗂️ </h1>  
+ <h1 align="center"> Concepts Guide🗂️ </h1>  
  
   - [x] Bitwise operators
  ----
