@@ -19,7 +19,7 @@
  #### - Dry run - It literally means a rehearsal of a performance or procedure before the real one. So, it is the execution that we do by ourselves to find teh basic condition and get the target!.
  
  We do dry runs through three methods in recursions:
-  - [Dry run using functions](https://github.com/cleanhand/phase-1-Anjura/blob/main/Concepts/Recursions/Dry%20run%20using%20functions.md)
+  - Dry run using functions
   - Dry run using stack.
   - Dry run by making trees.
 
@@ -70,6 +70,8 @@ Now, let's change this function into a programmable code.
     }
        
 Once we do the dry run, we find out that the base condition.
+
+[The dry run using functions](https://github.com/cleanhand/phase-1-Anjura/blob/main/Concepts/Recursions/Dry%20run%20using%20functions.md)
 
 Here the base condition is,
 
