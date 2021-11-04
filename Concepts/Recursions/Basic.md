@@ -6,7 +6,8 @@
  This concept turns difficult if we don't spend enough time and if we don't do it the right way. So, a thorough revision is a must while learning Recursions.
  
  Recursions can be compared to the Principle of Mathematical Induction. We assume the condition is true for `n` and then prove it for `n+1` and then we check it for `n=1` 
- and then conclude that the formula is correct.
+ and then conclude that the formula is correct.  
+ We assume in-order to check/test the validity of the formula. And, then we prove it!
  
  The problems can also be done using loops and recursions but they aren't the same.
  
@@ -15,9 +16,13 @@
  #### - Target - A function that gives us the desired output.
  #### - Assumption - The formula which we assume is true to solve the problem and beleive that it is true! for sure!
  #### - Base condition - The condition where all the recursive calls end/return after execution.
+ #### - Dry run - It literally means a rehearsal of a performance or procedure before the real one. So, it is the execution that we do by ourselves to find teh basic condition and get the target!.
  
- We assume in-order to check/test the validity of the formula. And, then we prove it!
- 
+ We do dry runs through three methods in recursions:
+  - [Dry run using functions](https://github.com/cleanhand/phase-1-Anjura/blob/main/Concepts/Recursions/Dry%20run%20using%20functions.md)
+  - Dry run using stack.
+  - Dry run by making trees.
+
  ----
  ### The procedure that we will follow:
  1. Know the target. A function that gives us the desired output.
