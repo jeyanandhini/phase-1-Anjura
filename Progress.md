@@ -333,5 +333,8 @@
  
  ----
  - [x] **[Day-99](https://github.com/Anjura/Days/blob/main/Day-99.md)**: Discussion on making two recursive calls and learnt about [Jira Management Support](https://www.atlassian.com/software/jira/service-management) and [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+ 
+ ----
+ - [x] **[Day-100](https://github.com/Anjura/Days/blob/main/Day-100.md)**: Discussion on the solution to Tower of Hanoi problem and about certified courses we can take up!
   </details>
  
