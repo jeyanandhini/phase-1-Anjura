@@ -36,26 +36,26 @@
 ----
  
 ### An example to understand our procedure:
- Program: To print 1 to 6
+ Program: To print 1 to 5
  
- First, our target is to print- `1 2 3 4 5 6`.
+ First, our target is to print- `1 2 3 4 5 `.
 
 This can be done using loops too but we will focus on doing it using recursion
 
-So, we have set our target(T), and let's say our assumption(A) is that the function f(5) prints `1 2 3 4 5` and we believe in this assumtion.
+So, we have set our target(T), and let's say our assumption(A) is that the function f(4) prints `1 2 3 4 ` and we believe in this assumtion.
 
-T = f(6) = 1 2 3 4 5 6
+T = f(5) = 1 2 3 4 5 
 
-A = f(5) = 1 2 3 4 5
+A = f(4) = 1 2 3 4 
 
 If we combine T and A, we observe that the target,
 
-    T = f(6) = A 
-               print 6
+    T = f(5) = A 
+               print 5
         
-    i.e, T = f(6) = 1 2 3 4 5 6
+    i.e, T = f(5) = 1 2 3 4 5 
     
-This case is only for `n=6`. Let's generalize the function so that it works for `n`
+This case is only for `n=5`. Let's generalize the function so that it works for `n`
   
     f(n) = f(n-1)
            print n
