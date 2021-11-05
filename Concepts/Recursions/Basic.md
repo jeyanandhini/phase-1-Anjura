@@ -73,6 +73,7 @@ Once we do the dry run, we find out that the base condition.
 
 [The dry run using functions](https://github.com/cleanhand/phase-1-Anjura/blob/main/Concepts/Recursions/Dry%20run%20using%20functions.md)
 
+[The dry run using stacks concept](https://github.com/cleanhand/phase-1-Anjura/blob/main/Concepts/Recursions/Dry%20run%20using%20Stacks.md)
 Here the base condition is,
 
     if(n==0)
