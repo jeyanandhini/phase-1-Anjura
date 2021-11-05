@@ -336,5 +336,8 @@
  
  ----
  - [x] **[Day-100](https://github.com/Anjura/Days/blob/main/Day-100.md)**: Discussion on the solution to Tower of Hanoi problem and about certified courses we can take up!
-  </details>
+  
+----
+ - [x] **[Day-100](https://github.com/Anjura/Days/blob/main/Day-101.md)**: Discussion on the problem `x raised to the power n` and Tower of Hanoi.
+</details>
  
