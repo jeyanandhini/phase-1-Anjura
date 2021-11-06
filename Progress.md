@@ -339,5 +339,8 @@
   
 ----
  - [x] **[Day-100](https://github.com/Anjura/Days/blob/main/Day-101.md)**: Discussion on the problem `x raised to the power n` and Tower of Hanoi.
+ 
+ ----
+ - [x] Day-101: Weekend break.
 </details>
  
