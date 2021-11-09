@@ -29,8 +29,8 @@
  
 - [x] Sortings
 
-Bubble|Selection|
-|----|---|
+Bubble|Selection|Insertion|
+|----|---|----|
 
  ----
  
