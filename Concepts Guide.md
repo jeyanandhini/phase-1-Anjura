@@ -6,10 +6,7 @@
   - [x] Pointers and memory structure for C
  ----
  
-  - [x] Function Calls
-
-Call by value|Call by reference
-|----|----|
+  - [x] [Function Calls](https://github.com/cleanhand/phase-1-Anjura/blob/main/Concepts/Function%20Calls.md)
 
  ----
  
@@ -93,5 +90,5 @@ Bubble|Selection|
  
  ----
  
-  - [x] Recursions
+  - [x] [Recursions](https://github.com/cleanhand/phase-1-Anjura/tree/main/Concepts/Recursions)
 ----
