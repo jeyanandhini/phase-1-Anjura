@@ -64,7 +64,7 @@ Bubble|Selection|Insertion|
  - [x] Structures
  ----
  
- - [x] Dynamic memory allocation
+ - [x] [Dynamic memory allocation](https://github.com/cleanhand/phase-1-Anjura/blob/main/Concepts/Dynamic%20Memory%20Allocation.md)
  ----
  
  - [x] Linked lists
