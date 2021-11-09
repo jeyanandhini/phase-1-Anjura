@@ -7,8 +7,8 @@ int find_minIdx(int arr[], int start, int end)
 	int i;
 	for(i = start+1; i<end ; i++)
 	{
-		if(arr[min_idx] > arr[i])
-		min_idx = i;
+	   if(arr[min_idx] > arr[i])
+	    min_idx = i;
 	}
 	return min_idx;
 }
@@ -26,7 +26,7 @@ void display(int arr[], int n)
 	int i;
 	for(i=0; i<n; i++)
 	{
-		printf(" %d ", arr[i]);
+	   printf(" %d ", arr[i]);
 	}
 	printf("\n\n");
 }
@@ -38,7 +38,7 @@ void selectionsort(int arr[], int start, int end)
 	int x;
 	for(i=start; i<end; i++)
 	{
-		min_index = i;
+	    min_index = i;
 	    x = find_minIdx(arr, i, end);
 	    swap(&arr[min_index], &arr[x]);
 	}
@@ -56,7 +56,7 @@ void main()
 	printf("enter the elements \n");
 	for(i=0; i<n; i++)
 	{
-		scanf("%d", &arr[i]);
+	   scanf("%d", &arr[i]);
 	}
 
 	printf("unsorted array : \n");
