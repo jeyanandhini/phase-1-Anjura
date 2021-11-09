@@ -59,7 +59,7 @@ Even if we use a and b in the `add()` function too, the compiler would still tre
 ## Function calls
 Arguments can generally passed to functions in two ways:
  
-  a. Sending the values of the arguments (Call by value)
+    a. Sending the values of the arguments (Call by value)
  	b. Sending the addresses of the arguments (Call by reference)
  
 ### Call by Value
@@ -67,7 +67,7 @@ Arguments can generally passed to functions in two ways:
  - Whenever a function is called, we pass the *values* of variables to the called function. This kind of function call is known as *call by value*
 It means that we are passing the values of variables to the called function.
 
-     Example:  sum = add (a, b);
+         Example:  sum = add (a, b);
 
 - The changes made to the formal arguments in the called function have no effect on the values of actual arguments in the calling function.
 
@@ -76,15 +76,15 @@ It means that we are passing the values of variables to the called function.
  - In this method (call by reference) the addresses of actual arguments in the calling function are copied into formal arguments of the called function.
 This means that using these addresses we would have an access to the actual arguments and hence we would be able to manipulate them.
 
-     Example: sum = add (&a, &b);
-     
-     The arguments will change in the function as -
-     add (int *x, int *y)
+         Example: sum = add (&a, &b);
+   The arguments will change in the function as -
+   
+         add (int *x, int *y)
          {
               int d;
-               d = *x+ *y;
-               return d;
+              d = *x+ *y;
+              return d;
          }
-     
+	      
  - We generally use call by value in C programming but if we want it, we can always achieve it through call by reference.
 
