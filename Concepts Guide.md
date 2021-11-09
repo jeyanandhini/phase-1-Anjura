@@ -78,7 +78,7 @@ Bubble|Selection|Insertion|
  
  - [x] Traversal in an array matrix
 
-|Spiral|Wave|Diagonal
+|[Spiral](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Arrays/spiralTraversalArrayMatrix.c)|[Wave](https://github.com/cleanhand/phase-1-Anjura/blob/main/Problems/Arrays/waveTraversalArrayMatrix.c)|Diagonal
  |----|----|----|
  
  ----
