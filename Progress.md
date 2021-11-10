@@ -351,5 +351,8 @@
  
  ----
  - [x] **[Day-104](https://github.com/Anjura/Days/blob/main/Day-104.md)**: Discussion on Tower of Hanoi.
+ 
+ ----
+ - [x] **[Day-105](https://github.com/Anjura/Days/blob/main/Day-105.md)**: Self-evaluation test and discussion on Tower of Hanoi.
 </details>
  
